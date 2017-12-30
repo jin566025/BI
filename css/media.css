@@ -58,4 +58,13 @@
 	.section1-center{
 		font-size: 3.5rem;
 	}
+	.footer-container-left{
+		float:none;
+		width: 100%;
+		margin-bottom: 30px;
+	}
+	.footer-container-right{
+		float:none;
+		width: 100%;
+	}
 }
